@@ -873,3 +873,9 @@ DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,omnivore
+
+# Gradio 相关域名规则（如果需要）
+DOMAIN-SUFFIX,gradio.app,PROXY
+DOMAIN-SUFFIX,api.gradio.app,PROXY
+DOMAIN-SUFFIX,cdn.gradio.app,PROXY
+DOMAIN-SUFFIX,www.gradio.app,PROXY
