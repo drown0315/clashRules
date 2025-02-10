@@ -875,7 +875,7 @@ DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,omnivore
 
 # Gradio 相关域名规则（如果需要）
-DOMAIN-SUFFIX,gradio.app,PROXY
-DOMAIN-SUFFIX,api.gradio.app,PROXY
-DOMAIN-SUFFIX,cdn.gradio.app,PROXY
-DOMAIN-SUFFIX,www.gradio.app,PROXY
+DOMAIN-SUFFIX,gradio.app
+DOMAIN-SUFFIX,api.gradio.app
+DOMAIN-SUFFIX,cdn.gradio.app
+DOMAIN-SUFFIX,www.gradio.app
